@@ -1,7 +1,7 @@
 print("lol")
 #kek
 #hmsdffdgdsfcvbadjn 
-#asasadfsddsdsdffsdfasdasdfghjsdfdfgasdadufdsdsujklug000dsfgsdgbufgdfgsdb asdf000asd
+#asasadfsddsdsdffsdfasdasdfghjsdfdfgasdadufdsdsujklug000dsfgsdgbufgfgdfgsdb asdf000asd
 #sdasddassdasdasdsdfasdasdsdf8sdfadfsfrsfsdf00hh0000fghfghfdgfh
 #asdasdsdfasdfhgdfasdfsdf324wer234f0yy,
 #dfg99sdfsdf0dfgsf0jknn jn
